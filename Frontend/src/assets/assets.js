@@ -74,7 +74,7 @@ export const menu_list = [
         menu_image: drinks_menu
     },
     {
-        menu_name: "chinese",
+        menu_name: "Chinese",
         menu_image: chinese_menu
     },
     {
@@ -96,7 +96,7 @@ export const menu_list = [
     export const food_list = [
         {
             _id: "1",
-            name: "panner",
+            name: "paneer",
             image: panner_food2,
             price: 120,
             description: "Food provides essential nutrients for overall health and well-being",
@@ -111,7 +111,7 @@ export const menu_list = [
             category: "Desserts"},
             {
                 _id: "3",
-                name: "Dosh",
+                name: "Dosa",
                 image: south_indian_menu,
                 price: 240,
                 description: "Food provides essential nutrients for overall health and well-being",
@@ -135,7 +135,7 @@ export const menu_list = [
             },
             {
                 _id: "7",
-                name: "curated",
+                name: "custard",
                 image: curated_food_2,
                 price: 150,
                 description: "Food provides essential nutrients for overall health and well-being",
